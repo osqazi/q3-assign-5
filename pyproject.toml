@@ -9,3 +9,6 @@ dependencies = [
     "fernet>=1.0.1",
     "streamlit>=1.40.1",
 ]
+
+[tool.streamlit]
+package-mode = false
